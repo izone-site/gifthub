@@ -1,0 +1,55 @@
+<div class="product-card">
+  <img src="images/iphone12.jpg" alt="iPhone 12">
+  <h3>iPhone 12</h3>
+  <p>450 €</p>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+    <input type="hidden" name="cmd" value="_xclick">
+    <input type="hidden" name="business" value="ilierusu548@gmail.com">
+    <input type="hidden" name="item_name" value="iPhone 12">
+    <input type="hidden" name="amount" value="450.00">
+    <input type="hidden" name="currency_code" value="EUR">
+    <input type="submit" value="Cumpără acum cu PayPal">
+  </form>
+</div>
+
+  <!-- iPhone 12 -->
+<div class="product-card">
+  <h3>iPhone 12</h3>
+  <p>450 €</p>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+    <input type="hidden" name="cmd" value="_xclick">
+    <input type="hidden" name="business" value="ilierusu548@gmail.com">
+    <input type="hidden" name="item_name" value="iPhone 12">
+    <input type="hidden" name="amount" value="450.00">
+    <input type="hidden" name="currency_code" value="EUR">
+    <input type="submit" value="Cumpără acum cu PayPal">
+  </form>
+</div>
+
+<!-- iPhone 13 -->
+<div class="product-card">
+  <h3>iPhone 13</h3>
+  <p>550 €</p>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+    <input type="hidden" name="cmd" value="_xclick">
+    <input type="hidden" name="business" value="ilierusu548@gmail.com">
+    <input type="hidden" name="item_name" value="iPhone 13">
+    <input type="hidden" name="amount" value="550.00">
+    <input type="hidden" name="currency_code" value="EUR">
+    <input type="submit" value="Cumpără acum cu PayPal">
+  </form>
+</div>
+
+<!-- iPhone 13 Pro Max -->
+<div class="product-card">
+  <h3>iPhone 13 Pro Max</h3>
+  <p>650 €</p>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+    <input type="hidden" name="cmd" value="_xclick">
+    <input type="hidden" name="business" value="ilierusu548@gmail.com">
+    <input type="hidden" name="item_name" value="iPhone 13 Pro Max">
+    <input type="hidden" name="amount" value="650.00">
+    <input type="hidden" name="currency_code" value="EUR">
+    <input type="submit" value="Cumpără acum cu PayPal">
+  </form>
+</div>
